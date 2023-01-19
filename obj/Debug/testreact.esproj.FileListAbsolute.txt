@@ -1,0 +1,2 @@
+D:\AdminInfo\IT\Программирование\C#\TestReact\TestReact\obj\Debug\testreact.esproj.SuggestedBindingRedirects.cache
+D:\AdminInfo\IT\Программирование\C#\TestReact\TestReact\obj\Debug\testreact.esproj.CoreCompileInputs.cache
